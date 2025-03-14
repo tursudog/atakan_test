@@ -1,1 +1,2 @@
-# atakan_test
+# atakan_test + BUGRAHAN
+BUGRAHAN İŞLEM YAPTI
